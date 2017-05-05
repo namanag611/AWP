@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52909" started-at="2017-05-04T11:50:08Z" finished-at="2017-05-04T11:51:01Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52909" started-at="2017-05-04T11:50:08Z" finished-at="2017-05-04T11:51:01Z">
+      <class name="Cases.TestClass">
+        <test-method status="PASS" signature="start(java.lang.String)[pri:0, instance:Cases.TestClass@23ceabc1]" name="start" is-config="true" duration-ms="28848" started-at="2017-05-04T17:20:08Z" finished-at="2017-05-04T17:20:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="Createtask(java.lang.String)[pri:0, instance:Cases.TestClass@23ceabc1]" name="Createtask" duration-ms="21536" started-at="2017-05-04T17:20:37Z" finished-at="2017-05-04T17:20:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0027938]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createtask -->
+        <test-method status="PASS" signature="end()[pri:0, instance:Cases.TestClass@23ceabc1]" name="end" is-config="true" duration-ms="2374" started-at="2017-05-04T17:20:59Z" finished-at="2017-05-04T17:21:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- Cases.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
