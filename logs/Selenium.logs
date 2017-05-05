@@ -1,0 +1,11 @@
+17:20:36,811 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:49 - Chrome browser started.
+17:20:43,398 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:24 - Entered Username: namanagrawal
+17:20:43,557 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:30 - Entered Password: ******
+17:20:48,025 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:37 - Click on Login
+17:20:51,756 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:47 - Finding task number: 0027938
+17:20:51,965 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:54 - Got Category text: [CloudPotential] Defect
+17:20:52,112 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:62 - Got Summary text: 0027938: pragmaticmarketing - ELP - Export to CSV and Word buttons not working on chrome
+17:20:52,154 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:71 - Directory is created for: 0027938
+17:20:53,092 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:91 - File copied to location.
+17:20:56,118 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:131 - File is renamed.
+17:21:01,389 DEBUG devpinoyLogger<strong><strong>{1}</strong></strong>:65 - Browser closed.
